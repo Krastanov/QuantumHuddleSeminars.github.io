@@ -10,8 +10,8 @@ SPEAKERS = [
 "date": new Date("2020-06-29T12:00:00-04:00"),
 "name": "Martin Frimmer",
 "affiliation": "ETH Zurich",
-"title": "TBA",
-"abstract": "TBA"
+"title": "Optomechanics with a levitated nanoparticle",
+"abstract": "Levitated optomechanics exploits the forces of light to suspend nanoscopic objects in vacuum. The light field serves both as a handle to mechanically manipulate, but also to interrogate various mechanical degrees of freedom of a levitated particle. In our talk, we introduce the audience to the field of levitated optomechanics, and discuss recent experimental progress towards full optomechanical control of the rotational and translational degrees of freedom of a levitated nanoparticle. In particular, we focus on feedback cooling a levitated particle’s motion to the few-phonon regime, where first signatures of its motional ground state emerge."
 },
 {
 "date": new Date("2020-07-06T12:00:00-04:00"),
