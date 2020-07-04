@@ -31,7 +31,7 @@ SPEAKERS = [
 "date": new Date("2020-07-27T12:00:00-04:00"),
 "name": "Danna Freedman",
 "affiliation": "Northwestern University",
-"title": "TBA",
-"abstract": "TBA"
+"title": "Chemistry for the second quantum revolution",
+"abstract": "Chemistry offers an atomically precise way to synthesize qubits. By harnessing chemical precision we can place atoms exactly where we want them. Research on constructing chemical qubits and understanding their coherence properties will be presented. Recent results on creating optically addressable molecular qubits or <q>molecular color centers<\q> will be highlighted."
 }
 ];
