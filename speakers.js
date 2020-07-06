@@ -27,6 +27,15 @@ SPEAKERS = [
 "title": "Preparation of an Exciton Condensate on a 53 Qubit Quantum Computer",
 "abstract": "Quantum computation promises an exponential speedup of certain classes of classical calculations through the preparation and manipulation of entangled quantum states. So far most molecular simulations on quantum computers, however, have been limited to small numbers of particles.  In this talk I will discuss our research group's recent preparation of a highly entangled state on a 53-qubit IBM quantum computer, representing 53 particles, which reveals the formation of an exciton condensate of photon particles and holes.  More generally, I will discuss recent research efforts in our group directed towards exploiting the potential advantage of quantum computing for chemistry."
 },
+  
+{
+"date": new Date("2020-07-20T12:00:00-04:00"),
+"name": "Juan Carlos Idrobo",
+"affiliation": "ORNL",
+"title": "TBA",
+"abstract": "TBA"
+},
+  
 {
 "date": new Date("2020-07-27T12:00:00-04:00"),
 "name": "Danna Freedman",
