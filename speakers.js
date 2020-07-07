@@ -31,9 +31,9 @@ SPEAKERS = [
 {
 "date": new Date("2020-07-20T12:00:00-04:00"),
 "name": "Juan Carlos Idrobo",
-"affiliation": "ORNL",
-"title": "TBA",
-"abstract": "TBA"
+"affiliation": "Center for Nanophase Materials Sciences, Oak Ridge National Laboratory, USA",
+"title": "2020 A New Resolution Odyssey: An Electron Microscope for Quantum Materials Research",
+"abstract": "Here, I will present several examples demonstrating how the new generation of monochromators, aberration-correctors and cameras in STEM can rival the capabilities of synchrotrons and allow to probe materials behavior at the nanometer and atomic scales in complete new ways.  Specifically, I will show how by utilizing the phase of the electron probe one can reveal the anti-ferromagnetic order of complex-oxide materials [1], and explore the ferromagnetic strength at the interfaces of thin-film complex-oxide heterostructures [2] at the atomic level.  I will also explain how STEM can be used to detect site-specific isotopic labels in amino acids at the nanometer scale [3], and show our current efforts in obtaining a vibrational spectroscopy atlas of all proteinogenic amino acids via EELS. Lastly, I will discuss potentially relevant new challenges that electron microscopy will need to resolve in the future.  Would it be possible to map orbitals and spins with atomic resolution and with single atom sensitivity? Could we detect a superconducting transition? Could we detect minute concentrations of isotopic elements and perform radiocarbon dating at the nanoscale?  These questions will be addressed and further elaborated during the presentation [4].\n References:\n [1] J. C. Idrobo, et al., Adv. Struc. Chem. Img. 2 (2016), p. 5.\n [2] J. C. Idrobo, et al., unpublished (2020).\n [3] J. A. Hachtel, et al., Science 363 (2019), p. 525.\n [4] This research was supported by the Center for Nanophase Materials Sciences, which is a Department of Energy Office of Science User Facility, and instrumentation within ORNL's Materials Characterization Core provided by UT-Battelle, LLC under Contract No. DE-AC05-00OR22725 with the U.S. Department of Energy."
 },
   
 {
