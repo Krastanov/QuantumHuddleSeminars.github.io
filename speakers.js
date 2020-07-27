@@ -53,6 +53,6 @@ SPEAKERS = [
 "name": "Sophia Economou",
 "affiliation": "Virginia Tech",
 "title": "Photonic graph state generation and nuclear spin register control for quantum repeater networks",
-"abstract": "Spin-photon interfaces augmented with quantum memories can be used as quantum repeater nodes, which are critical components of quantum communication networks. We will present our theoretical work toward the realization of quantum repeaters, focusing on the triggered generation of entangled photonic graph states from a spin-photon interface and the control of nuclear spin registers coupled to a color center spin.";
+"abstract": "Spin-photon interfaces augmented with quantum memories can be used as quantum repeater nodes, which are critical components of quantum communication networks. We will present our theoretical work toward the realization of quantum repeaters, focusing on the triggered generation of entangled photonic graph states from a spin-photon interface and the control of nuclear spin registers coupled to a color center spin."
 },
 ];
