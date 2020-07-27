@@ -42,5 +42,19 @@ SPEAKERS = [
 "affiliation": "Northwestern University",
 "title": "Chemistry for the second quantum revolution",
 "abstract": "Chemistry offers an atomically precise way to synthesize qubits. By harnessing chemical precision we can place atoms exactly where we want them. Research on constructing chemical qubits and understanding their coherence properties will be presented. Recent results on creating optically addressable molecular qubits or <q>molecular color centers<\q> will be highlighted."
-}
+},
+{
+"date": new Date("2020-08-03T12:00:00-04:00"),
+"name": "Greg Fuchs",
+"affiliation": "Cornell University",
+"title": "Coherent spin and orbital transitions of diamond nitrogen-vacancy centers by coupling to a mechanical resonator",
+"abstract": "I will describe our experiments to drive spin and orbital resonance of single diamond nitrogen-vacancy (NV) centers using the gigahertz-frequency strain oscillations produced within a diamond acoustic resonator. Strain-based coupling between a resonator and a defect center takes advantage of intrinsic and reproducible coupling mechanisms while maintaining compatibility with conventional magnetic and optical techniques, thus providing new functionality for quantum-enhanced sensing and quantum information processing. Using a spin-strain interaction at room temperature, we demonstrate coherent spin control over both double quantum (Δm=±2) and single quantum (Δm=±1) transitions. At cryogenic temperatures, we use orbital-strain interactions driven by a diamond acoustic resonator to study multi-phonon orbital resonance of a single NV center. Additionally, I’ll describe our efforts to enhance electron-phonon coupling by engineering mechanical resonators with small modal volumes based a semi-confocal acoustic cavity."
+},
+{
+"date": new Date("2020-08-10T12:00:00-04:00"),
+"name": "Sophia Economou",
+"affiliation": "Virginia Tech",
+"title": "Photonic graph state generation and nuclear spin register control for quantum repeater networks",
+"abstract": "Spin-photon interfaces augmented with quantum memories can be used as quantum repeater nodes, which are critical components of quantum communication networks. We will present our theoretical work toward the realization of quantum repeaters, focusing on the triggered generation of entangled photonic graph states from a spin-photon interface and the control of nuclear spin registers coupled to a color center spin.";
+},
 ];
