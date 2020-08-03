@@ -55,4 +55,11 @@ SPEAKERS = [
 "title": "Photonic graph state generation and nuclear spin register control for quantum repeater networks",
 "abstract": "Spin-photon interfaces augmented with quantum memories can be used as quantum repeater nodes, which are critical components of quantum communication networks. We will present our theoretical work toward the realization of quantum repeaters, focusing on the triggered generation of entangled photonic graph states from a spin-photon interface and the control of nuclear spin registers coupled to a color center spin."
 },
+{
+"date": new Date("2020-08-17T12:00:00-04:00"),
+"name": "Michael Gullans",
+"affiliation": "Princeton University",
+"title": "A threshold result for monitored random quantum circuits",
+"abstract": "The sustained storage, transmission, or processing of quantum information will likely be a non-equilibrium process that requires monitoring the system and applying some form of feedback to produce fault-tolerance.  Achieving this paradigm in near-term quantum devices faces challenging resource constraints.  In this talk, I will discuss a class of models based on random quantum circuit dynamics interspersed with projective measurements that display a similar phenomenology to models for fault-tolerance, including the existence of a threshold, but with many helpful simplifications for theoretical analysis.  Quantum Shannon theory and quantum error correction play a central role in our analysis.  A major corollary of our results is to establish the existence of a novel set of dynamically generated quantum error correcting codes whose study may provide broader lessons for resource-limited fault-tolerance.  I will then discuss a scheme to probe the phase transition in these models on near-term quantum computing devices."
+},  
 ];
