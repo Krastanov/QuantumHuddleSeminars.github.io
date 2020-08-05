@@ -61,5 +61,12 @@ SPEAKERS = [
 "affiliation": "Princeton University",
 "title": "A threshold result for monitored random quantum circuits",
 "abstract": "The sustained storage, transmission, or processing of quantum information will likely be a non-equilibrium process that requires monitoring the system and applying some form of feedback to produce fault-tolerance.  Achieving this paradigm in near-term quantum devices faces challenging resource constraints.  In this talk, I will discuss a class of models based on random quantum circuit dynamics interspersed with projective measurements that display a similar phenomenology to models for fault-tolerance, including the existence of a threshold, but with many helpful simplifications for theoretical analysis.  Quantum Shannon theory and quantum error correction play a central role in our analysis.  A major corollary of our results is to establish the existence of a novel set of dynamically generated quantum error correcting codes whose study may provide broader lessons for resource-limited fault-tolerance.  I will then discuss a scheme to probe the phase transition in these models on near-term quantum computing devices."
-},  
+}, 
+{
+"date": new Date("2020-08-24T12:00:00-04:00"),
+"name": "Ana Asenjo-Garcia",
+"affiliation": "Columbia University",
+"title": "Few- and many-body photon physics in 1D atomic arrays",
+"abstract": "Tightly packed ordered arrays of atoms (or, more generally, quantum emitters) exhibit remarkable collective optical properties. In this talk, we will discuss the few- and many-body out-of-equilibrium physics of 1D arrays. For small enough lattice constants, such chains feature dark states that allow for dissipationless transport of photons, behaving as waveguides. These atomic waveguides can be used to mediate interactions between impurity qubits coupled to the array. Due to the two-level nature of the atoms, atomic waveguides are a perfect playground to realize strong photon-photon interactions. At the many-body level, collective decay leads to superradiance even for finite inter-atomic separation. Signatures of photon-photon correlations and directional emission can be measured in state of the art experiments."
+}, 
 ];
